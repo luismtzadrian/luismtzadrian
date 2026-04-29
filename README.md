@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hey, I'm Adrian Martinez 👋
 
-<!--
-**luismtzadrian/luismtzadrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### LUIS ADRIAN MARTINEZ VERGARA
+Network Associate Director |  NTT Data
 
-Here are some ideas to get you started:
+Building AI-driven network automation at the intersection of 
+Cisco infrastructure and LLM tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+- **Network:** Cisco IOS XE, Catalyst 8k, MPLS, Palo Alto, F5
+- **Automation:** Python, Ansible, Netmiko, REST APIs
+- **AI/Agents:** Claude (Anthropic), MCP, multi-agent orchestration
+- **Tools:** Terraform, Git, Docker, Vercel
+
+## 🚀 Active Projects
+- **NetClaw** — AI network automation agent via Telegram + Claude
+- **iamadrian.tech** — Portfolio + live Cybertruck telemetry dashboard
+- **100-Day First Principles Challenge** — Daily LinkedIn posts
+
+## 📫 Connect
+🌐 [iamadrian.tech](https://iamadrian.tech)
+💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
