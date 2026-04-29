@@ -1,8 +1,5 @@
 # Hey, I'm Adrian Martinez 👋
 
-### LUIS ADRIAN MARTINEZ VERGARA
-Network Associate Director |  NTT Data
-
 Building AI-driven network automation at the intersection of 
 Cisco infrastructure and LLM tooling.
 
@@ -17,6 +14,6 @@ Cisco infrastructure and LLM tooling.
 - **iamadrian.tech** — Portfolio + live Cybertruck telemetry dashboard
 - **100-Day First Principles Challenge** — Daily LinkedIn posts
 
-## 📫 Connect
+## 📫 Connect with me
 🌐 [iamadrian.tech](https://iamadrian.tech)
 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
