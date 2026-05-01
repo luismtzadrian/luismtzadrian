@@ -15,5 +15,6 @@ Cisco infrastructure and LLM tooling.
 - **100-Day First Principles Challenge** — Daily LinkedIn posts
 
 ## 📫 Connect with me
+Luis Adrian Martinez Vergara
 🌐 [iamadrian.tech](https://iamadrian.tech)
 💼 [LinkedIn](https://linkedin.com/in/YOUR_HANDLE)
